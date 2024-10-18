@@ -45,3 +45,11 @@ int main(){
     }
     
 }
+
+
+// chatgpt Review 
+
+// Final Thoughts:
+// You're doing well, especially for a beginner. With the above tweaks, the code will become more robust and user-friendly!
+
+// Final Rating: 7/10
